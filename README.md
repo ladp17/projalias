@@ -1,0 +1,1 @@
+ programinha q faz alias. só executar com os argumentos sendo os comand os do bash. e dps ele pede o nome do alias e escreve na proxima linha do ~/.bahs_aliases o alias completo
