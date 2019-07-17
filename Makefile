@@ -2,10 +2,10 @@ CFLAGS =-Wall \
 		-g
 		
 
-all: alias
+all: makealias
 
-alias: alias.c
+makealias: alias.c
 	$(CC) $(CFLAGS) -o $@ $^
 	
 clean:
-	rm -rf alias
+	rm -rf makealias
